@@ -33,6 +33,9 @@
 ![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20164725.png)
 
 
+![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20203816.png)
+
+
 
 
 
