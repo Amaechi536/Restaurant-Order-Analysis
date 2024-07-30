@@ -27,6 +27,9 @@
 ![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20164900.png)
 ## 3.Were there certain times that had more or less orders?
 ### Using pivot table order date is being placed on rows and order id on values by doing this march has more orders and January has less orders, sort DESC.
+![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20203511.png)
+## 4.Which cuisines should we focus on developing more menu items for based on the data?
+### To provide answer to this using the pivot table, category placed on the rows while quantity on values and total below quantity on value. sort DESC.
 ![](
 
 
