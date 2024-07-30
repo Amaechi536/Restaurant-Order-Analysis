@@ -23,7 +23,12 @@
 ![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20164448.png)
 ## 2.what do the highest order look like? which item did they buy and how much did they spend?
 ### To provide answer to this quantity column was created using =COUNTIFS($B$2:$B$12235,B2,$F$2:$F$12235,F2) selecting the order-id and item-name and adding absolute reference.  And also create the total column by sum(price*quantity).
-### To provide accurate answer, order id was inserted under rows in pivot then below comes the item name on the value sum of total was placed. Sort by descending order.  This helps to analyze the highest spent orders alongside with the items bought and total amount spent. 
+### To provide accurate answer, order id was inserted under rows in pivot then below comes the item name on the value sum of total was placed. Sort by descending order.  This helps to analyze the highest spent orders alongside with the items bought and total amount spent.
+![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20164900.png)
+## 3.Were there certain times that had more or less orders?
+### Using pivot table order date is being placed on rows and order id on values by doing this march has more orders and January has less orders, sort DESC.
+![](
+
 
 
 
