@@ -30,7 +30,7 @@
 ![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20203511.png)
 ## 4.Which cuisines should we focus on developing more menu items for based on the data?
 ### To provide answer to this using the pivot table, category placed on the rows while quantity on values and total below quantity on value. sort DESC.
-![](
+![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20164725.png)
 
 
 
