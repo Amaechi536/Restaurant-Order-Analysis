@@ -20,7 +20,12 @@
 ### the analysis helps to identify least and most ordered items and the category they were in. what highest spent order look like, item bought and how much spent. certain times with more or less orders. Cuisines that should focus on developing more menu items for base on the data,this analysis provides insight addressing the following questions.
 ## 1.what where the least and most ordered items? what categories where they in?
 ### The question from maven roasters, restaurant order, seeks to understand the least and most ordered item and what category they belong, to address this question in Microsoft excel, pivot table was created, adding item-name and category on  rows then on values order-id was added. This gives result of least and most ordered item and what category they belong, sort by ascending order.
-![](
+![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20164448.png)
+## 2.what do the highest order look like? which item did they buy and how much did they spend?
+### To provide answer to this quantity column was created using =COUNTIFS($B$2:$B$12235,B2,$F$2:$F$12235,F2) selecting the order-id and item-name and adding absolute reference.  And also create the total column by sum(price*quantity).
+### To provide accurate answer, order id was inserted under rows in pivot then below comes the item name on the value sum of total was placed. Sort by descending order.  This helps to analyze the highest spent orders alongside with the items bought and total amount spent. 
+
+
 
 
 
