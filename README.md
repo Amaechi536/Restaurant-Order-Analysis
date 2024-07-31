@@ -32,6 +32,8 @@
 ### To provide answer to this using the pivot table, category placed on the rows while quantity on values and total below quantity on value. sort DESC.
 ![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20164725.png)
 
+## Data Visualization
+### this data visualization was created using microsoft excel,each visual displays answer for each question asked.
 
 ![](https://github.com/Amaechi536/Restaurant-Order-Analysis/blob/main/Screenshot%202024-07-28%20203816.png)
 
